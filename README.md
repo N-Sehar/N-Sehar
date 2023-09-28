@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @N-Sehar
+- 👀 I’m interested in healthcare research
+- 🌱 I’m currently learning Master of Public Health
+- 📫 Reach me through GitHub
